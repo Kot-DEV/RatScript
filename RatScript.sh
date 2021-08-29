@@ -1,0 +1,1 @@
+screen -dmS server java -Xmx6G -jar server.jar 
